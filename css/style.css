@@ -1,0 +1,12 @@
+.fas{
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+
+.fa-edit:hover{
+color: rgb(7, 204, 40);
+}
+
+.fa-trash:hover{
+    color: rgb(253, 84, 84);
+}
